@@ -25,5 +25,7 @@
   "mateAcademy": {
     "projectType": "javascript"
   },
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.22.3"
+  }
 }
